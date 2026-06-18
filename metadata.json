@@ -1,0 +1,6 @@
+{
+  "name": "Cellular Automata Explorable",
+  "description": "An interactive, playable explanation of cellular automata, inspired by Nicky Case.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
